@@ -4,7 +4,7 @@
 ##  A Exploratory data analysis APP
 
 
-![APP](https://drive.google.com/uc?id=1SzH7pfIoEYtAzHe4Zhkl4ne1YZWPA6ah&export=download)
+![APP](https://drive.google.com/uc?id=1fPtlPEvcwhZAye_iHkac5QHAnQjnSlMh&export=download)
 
 
 ## TAPIWA CHAMBOKO
