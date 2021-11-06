@@ -1,7 +1,7 @@
 
 # Exploratory data analysis
 
-##  A Exploratory data analysis APP
+##  An Exploratory data analysis APP
 
 
 ![APP](https://drive.google.com/uc?id=1fPtlPEvcwhZAye_iHkac5QHAnQjnSlMh&export=download)
