@@ -126,7 +126,6 @@ pytz==2021.3
 pytz-deprecation-shim==0.1.0.post0
 pyviz-comms==2.1.0
 PyWavelets==1.1.1
-pywinpty
 PyYAML==6.0
 pyzmq
 querystring-parser==1.2.4
