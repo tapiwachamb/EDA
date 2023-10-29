@@ -33,7 +33,7 @@ I'm a full stack developer experienced in deploying artificial intelligence powe
 
 **Live demo**
 
-[Click here for Live demo](https://share.streamlit.io/tapiwachamb/eda/main/app.py)
+[Click here for Live demo](https://data-eda.streamlit.app/)
 ## Installation
 
 Install required packages 
