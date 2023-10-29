@@ -80,5 +80,4 @@ validators==0.22.0
 visions==0.7.4
 watchdog==3.0.0
 wordcloud==1.9.2
-ydata-profiling==4.6.1
 zipp==3.17.0
