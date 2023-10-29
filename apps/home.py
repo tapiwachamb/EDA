@@ -16,7 +16,7 @@ import requests
 def app():
     st.title('Home')
     st.markdown("""
-                ## Exploratory data analysis App.
+                ## Exploratory data analysis App By Tapiwa Chamboko.
                 
 
 
