@@ -5,7 +5,7 @@ import base64
 from io import StringIO, BytesIO  
 import numpy as np
 import pandas as pd
-from sklearn import datasets
+#from sklearn import datasets
 import matplotlib.pyplot as plt
 from pandas_profiling import ProfileReport
 from streamlit_pandas_profiling import st_profile_report
@@ -24,7 +24,7 @@ Please upload your xlsx file or click the button below to use example dataset
 
     # Pandas Profiling Report
     if uploaded_file is not None:
-        @st.cache
+        @st.cache_data
         def load_csv():
             csv = pd.read_excel(uploaded_file,engine='openpyxl')
             #csv = pd.read_csv(uploaded_file,encoding='latin1', index_col=None,usecols = "A,B,C,D,E,F,H,G,H,I,J")
@@ -42,7 +42,7 @@ Please upload your xlsx file or click the button below to use example dataset
         
         if st.button('Press to use Example Dataset'):
             # Example data
-            @st.cache
+            @st.cache_data
             def load_data():
                 a = pd.DataFrame(
                     np.random.rand(100, 5),
