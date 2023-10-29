@@ -4,7 +4,6 @@ import streamlit as st
 import zipfile
 import base64
 import os
-
 from PIL import Image
 from multiapp import MultiApp
 from apps import home, eda # import your app modules here

@@ -1,7 +1,6 @@
 """Frameworks for running multiple Streamlit applications as a single app.
 """
 import streamlit as st
-
 class MultiApp:
     """Framework for combining multiple streamlit applications.
     Usage:
